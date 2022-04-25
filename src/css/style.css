@@ -9,9 +9,9 @@
 
 :root {
   --main-accent-color: rgb(14, 13, 13);
-  --link-color: rgb(246, 250, 6);
+  --link-color: rgb(250, 234, 6);
   --curent-page-nav-highlight-color: rgb(6, 252, 6);
-  --main-text-color: #f4f808;
+  --main-text-color: #111111;
   --page-bg-color: rgb(250, 234, 8);
   --button-text-color: rgb(253, 228, 5);
   --popup-message-bg-color: rgb(14, 13, 1);
